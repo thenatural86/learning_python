@@ -1,5 +1,5 @@
 import unittest
-import cap
+import ErrorsandExceptions.cap as cap
 
 class TestCap(unittest.TestCase):
 
